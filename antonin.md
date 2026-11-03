@@ -1,8 +1,9 @@
-Présentation
+Introduction
 
-Je m'appel Antonin j'ai 20 ans, j'ai fait un Bac Pro SN(Système Numérique). Plus tard 
-j'aimerai devenir développer, je programme de mon côté depuis plusieurs années.
-J'ai appris que Git était un outil de versionning de projet, j'ai aussi appris à lier un projet en ligne de commande puis à effectuer un commit grâce à la commade git commit -m.
+My name is Antonin; I'm 20 years old, and I earned a Bac Pro SN (Digital Systems). In the future,
+I'd like to become a developer; I've been programming on my own for several years.
+I learned that Git is a project version control tool; I also learned how to check out a project using the command line and then make a commit using the command `git commit -m`.
+
 
 ![Voici le logo de Github](https://logos-marques.com/wp-content/uploads/2021/03/GitHub-Logo.png)
 
